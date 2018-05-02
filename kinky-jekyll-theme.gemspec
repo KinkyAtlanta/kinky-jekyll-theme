@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kinkyatlanta@googlegroups.com"]
 
   spec.summary       = "A Jekyll theme created for the Kinky Atlanta blog and partial copy of the Minima theme."
-  spec.homepage      = "https://github.com/max-noether/kinky-jekyll-theme"
+  spec.homepage      = "https://github.com/KinkyAtlanta/kinky-jekyll-theme"
   spec.license       = "AGPL-3.0"
 
   spec.metadata["plugin_type"] = "theme"
